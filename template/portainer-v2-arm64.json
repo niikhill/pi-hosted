@@ -3255,6 +3255,12 @@
 					"name": "DOMAIN"
 				},
 				{
+					"default": "",
+					"description": "Leave it empty if not using a public instance",
+					"label": "HMAC_KEY",
+					"name": "HMAC_KEY"
+				},
+				{
 					"description": "Leave false if not using a public instance",
 					"label": "HTTPS_ONLY",
 					"name": "HTTPS_ONLY",
