@@ -3409,7 +3409,7 @@
 			"platform": "linux",
 			"repository": {
 				"stackfile": "stack/invidious.yml",
-				"url": "https://github.com/pi-hosted/pi-hosted"
+				"url": "https://github.com/niikhill/pi-hosted"
 			},
 			"title": "Invidious",
 			"type": 3
