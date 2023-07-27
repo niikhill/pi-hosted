@@ -19,6 +19,7 @@ services:
           host: invidious-db
           port: 5432
         check_tables: true
+        hmac_key: ${HMAC_KEY}
         domain: ${DOMAIN}
         https_only: ${HTTPS_ONLY}
         external_port: ${EXTERNAL_PORT}
